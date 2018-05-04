@@ -3,12 +3,12 @@
 * Python3
 * Vitualenv(opcional)
 
-## Instalar las librerias necesarias:
-'''sh
+## Librerias:
+```sh
 pip install - r requirements.txt
-'''
+```
 
 ## Para ejecutar:
-'''sh
+```sh
 jupyter-notebook
-'''
+```
